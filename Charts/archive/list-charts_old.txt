@@ -1,11 +1,10 @@
 1. Distribusi nama berdasarkan Kelamin
 2. Frekuensi banyak kata dala msebuah nama
-3. 10 Nama dengan Frekuensi Paling Sering (Semua)
-4. 10 Nama Tengah Paling Sering (Semua)
+3. 10 Nama dengan frekuensi paling sering
+4. 10 Nama Tengah paling sering
 5. 10 Nama awal paling sering (Laki-Laki)
 6. 10 Nama awal paling sering (Perempuan)
 7. 10 Nama akhir paling sering (Laki-Laki)
 8. 10 Nama akhir paling sering (Perempuan)
-9. Distribusi Panjang Nama (Semua)
--. Distribusi Normal Panjang Nama
--. Distibusi Normal Panjang Nama Theoretical vs Data
+9. Distribusi Normal Panjang Nama
+10. Distibusi Normal Panjang Nama Theoretical vs Data

@@ -32,11 +32,11 @@ Tools & Service:
 ### Frekuensi Banyak Kata dalam Sebuah Nama
 ![2](Charts/2_Frekuensi%20Banyak%20Kata%20dalam%20Sebuah%20Nama.png)
 
-### 10 Nama dengan Frekuensi Paling Sering
-![3](Charts/3_10%20Nama%20dengan%20Frekuensi%20Paling%20Sering.png)
+### Top 10 Nama Awal yang Paling Sering Muncul (Semua)
+![3](Charts/3_Top%2010%20Nama%20Awal%20yang%20Paling%20Sering%20Muncul%20(Semua).png)
 
-### 10 Nama Tengah Paling Sering
-![4](Charts/4_Top%2010%20Nama%20Tengah%20Paling%20Sering.png)
+### Top 10 Nama Tengah yang Paling Sering Muncul (Semua)
+![4](Charts/4_Top%2010%20Nama%20Tengah%20yang%20Paling%20Sering%20Muncul%20(Semua).png)
 
 ### 10 Nama Awal Paling Sering (Laki-Laki)
 ![5](Charts/5_10%20Nama%20Awal%20Paling%20Sering%20(Laki-Laki).png)
@@ -49,6 +49,9 @@ Tools & Service:
 
 ### 10 Nama Akhir Paling Sering (Perempuan)
 ![8](Charts/8_Top%2010%20Nama%20Akhir%20Paling%20Sering%20(Perempuan).png)
+
+### Distribusi Panjang Nama (Semua)
+![9](Charts/9_Distribusi%20Panjang%20Nama%20(Semua).png)
 
 ### Distribusi Normal Panjang Nama
 ![9](Charts/9_Distribusi%20Normal%20Panjang%20Nama.png)
